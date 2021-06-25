@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Examen_Yucra</string>
+
+    <string-array name="regiones">
+        <item>-SELECCIONE-</item>
+        <item>Costa</item>
+        <item>Sierra</item>
+        <item>Selva</item>
+    </string-array>
+
+</resources>
